@@ -1,0 +1,2 @@
+# OpenModelica
+A desktop app
